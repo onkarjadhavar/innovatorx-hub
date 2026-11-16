@@ -153,3 +153,4 @@ export const OpportunitiesSection: React.FC<OpportunitiesSectionProps> = ({ onSe
     </section>
   );
 };
+

@@ -64,3 +64,4 @@ export const CTASection: React.FC<CTASectionProps> = ({ onOpenGetStarted }) => {
     </section>
   );
 };
+

@@ -128,3 +128,4 @@ export const OpportunityModal: React.FC<OpportunityModalProps> = ({
     </div>
   );
 };
+

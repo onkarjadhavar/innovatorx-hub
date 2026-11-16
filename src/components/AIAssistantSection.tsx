@@ -209,3 +209,4 @@ export const AIAssistantSection: React.FC = () => {
     </section>
   );
 };
+

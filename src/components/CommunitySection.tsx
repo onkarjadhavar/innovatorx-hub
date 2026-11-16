@@ -194,3 +194,4 @@ export const CommunitySection: React.FC<CommunitySectionProps> = ({ onOpenGetSta
     </section>
   );
 };
+
